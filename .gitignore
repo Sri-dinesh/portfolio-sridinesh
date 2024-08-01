@@ -5,3 +5,5 @@ dist/*/*
 dist/*
 !dist/images
 !dist/images/*
+package-lock.json
+package.json
